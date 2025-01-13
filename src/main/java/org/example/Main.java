@@ -9,7 +9,7 @@ public class Main {
     /**
      * default constructor no usages
      */
-    public Main() {};
+    public Main() {}; 
 
     static final String cognome=""; // assegnare alla variabile il proprio cognome
     static final String nome=""; // assegnare alla variabile il proprio nome
